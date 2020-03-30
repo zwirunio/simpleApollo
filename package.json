@@ -1,0 +1,16 @@
+{
+  "name": "random-staff",
+  "version": "1.0.0",
+  "description": "Pierwszy serwer QraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Żwinis",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
